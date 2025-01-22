@@ -8,12 +8,12 @@ One Lux Crate spawns in the [Red Tugboat](/buildings/tugboats) in each game.
 
 # Loot & More
 
-The Lux Crate always drops a scope and on the normal map, a [RGS](/weapons/guns/rgs). On the Harvest and Halloween Maps, it drops either an [RGS](/weapons/guns/rgs), a [VKS Vykhlop](/weapons/guns/vks), or a [Tango 51](/weapons/guns/tango_51). All three have an equal chance to spawn.
+The Lux Crate always drops a scope and on the normal map, a [RG Scout](/weapons/guns/rgs). On the Harvest and Halloween Maps, it drops either an [RG Scout](/weapons/guns/rgs), a [VKS Vykhlop](/weapons/guns/vks), or a [Tango 51](/weapons/guns/tango_51). All three have an equal chance to spawn.
 
 # Tips
 
 - Since the Lux Crate has extremely low health and poor positioning, it makes poor cover from enemies.
-- It is almost always better to break it for loot since it drops the powerful [RGS](/weapons/guns/rgs) on the Normal Map and a chance for the extremely powerful [VKS Vykhlop](/weapons/guns/vks) or [Tango 51](/weapons/guns/tango_51) on the Harvest and Halloween Maps.
+- It is almost always better to break it for loot since it drops the powerful [RG Scout](/weapons/guns/rgs) on the Normal Map and a chance for the extremely powerful [VKS Vykhlop](/weapons/guns/vks) or [Tango 51](/weapons/guns/tango_51) on the Harvest and Halloween Maps.
 
 # History
 

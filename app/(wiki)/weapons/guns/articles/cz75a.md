@@ -36,6 +36,11 @@ The CZ 75 was designed by František Koucký starting in 1969. It uses a recoil 
 - During the 
 
 # History
+- [v0.22.2](https://github.com/HasangerGames/suroi/releases/tag/v0.22.2)
+  - Updated world image
+  - Length increased to 5.3 (from 5.12)
+  - Dual variant standing spread decreased to 8° (from 14°)
+  - Dual variant moving spread decreased to 14° (from 25°)
 - [v0.22.1](https://github.com/HasangerGames/suroi/releases/tag/v0.22.1)
   - Fixed killfeed being scaled incorrectly
 - [v0.22.0](https://github.com/HasangerGames/suroi/releases/tag/v0.22.0)

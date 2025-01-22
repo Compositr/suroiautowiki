@@ -37,7 +37,13 @@ The Stoner 63 is rarely found in [Flint](/obstacles/flint_crate) and [AEGIS Crat
 - Eugene Stoner also designed the [M16A2](/weapons/guns/m16a2) and the [SR-25](/weapons/guns/sr25).
 
 # History
-
+- [v0.22.0](https://github.com/HasangerGames/suroi/releases/tag/v0.22.0)
+  - Updated world image
+  - Length increased to 8 (from 7.7)
+  - Left fist moved to (100, -3) (from (105, -3))
+  - Image moved to (82, 0) (from (90, 0))
+  - Casing particle spawn moved to (3.7, -0.6) (from (4, -0.6))
+  - M13 Link particle spawn moved to (3.9, -0.6) (from (4.2, -0.6))
 - [v0.16.0](https://github.com/HasangerGames/suroi/releases/tag/v0.16.0)
   - Casing velocity y-component set to [-15, -10]
   - Additional casing "m13_link" ejected

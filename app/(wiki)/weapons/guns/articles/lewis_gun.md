@@ -2,7 +2,7 @@ The **Lewis Automatic Machine Gun** or **Lewis Automatic Rifle**, known in-game 
 
 # Background
 
-The Lewis gun was invented in 1911 by Isaac Newton Lewis, a U.S. Army colonel. It was widely used by the United Kingdom during the First World War. During the Second World War, old stores of Lewis guns supplemented the arsenal of the Allies. It saw use both as an LMG and a mounted weapon for boats, airplanes, and vehicles. It was withdrawn from service in the UK in 1946.
+The Lewis gun was invented in 1911 by Isaac Newton Lewis, a U.S. Army colonel. It was widely used by the United Kingdom during the First World War. During the Second World War, old stores of Lewis guns supplemented the arsenal of the Allies where it saw use both as an LMG and as a mounted weapon for boats, airplanes, and vehicles. It was withdrawn from service in the UK in 1946 after being replaced by the Bren gun in the infantry and by the Vickers K machine gun as a mounted weapon but was still used in conflicts after the Second World War such as the Korean and Vietnam wars mostly by other members of the United nations.
 
 # Strategies
 
@@ -50,6 +50,9 @@ The Lewis Gun can be rarely found as world loot, but it is more common in higher
   - Speed multiplier increased to 0.825 (from 0.8)
   - Recoil multiplier increased to 0.7 (from 0.65)
   - Obstacle damage multiplier decreased to 2 (from 2.5)
+  - Image moved to (100, 0) (from (120, 0))
+  - Left fist moved to (120, -8) (from (120, -10))
+  - Casing particle spawn moved to (3.3, 0.6) (from (4.7, 0.6))
 - [v0.16.0](https://github.com/HasangerGames/suroi/releases/tag/v0.16.0)
   - Casing type set to .30-06
 - [v0.13.0](https://github.com/HasangerGames/suroi/releases/tag/v0.13.0)

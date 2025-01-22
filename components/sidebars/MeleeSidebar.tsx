@@ -66,7 +66,7 @@ export default function MeleeSidebar({ item }: MeleeSidebarProps) {
           {item.cooldown}ms
         </InfoboxColumn>
         <InfoboxColumn title="Obstacle Damage">
-          x{item.obstacleMultiplier} ({item.obstacleMultiplier * item.damage})
+          x{item.obstacleMultiplier} <br></br>({(item.obstacleMultiplier * item.damage).toFixed(2)})
         </InfoboxColumn>
       </InfoboxRow>
       <InfoboxRow>

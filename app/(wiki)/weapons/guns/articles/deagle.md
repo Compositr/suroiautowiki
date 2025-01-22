@@ -32,5 +32,11 @@ The Desert Eagle was designed by Magnum Research, Inc. and fires the largest cen
 - The DEagle is one of 7 guns that were in surviv.io, the others being the [M1 Garand](/weapons/guns/m1_garand), [VSS](/weapons/guns/vss), [USAS-12](/weapons/guns/usas12), [AK-47](/weapons/guns/ak47), [Vector](/weapons/guns/vector), and [Mosin-Nagant](/weapons/guns/mosin_nagant).
 
 # History
+- [v0.22.2](https://github.com/HasangerGames/suroi/releases/tag/v0.22.2)
+  - Updated world image
+  - Dual variant standing spread decreased to 3° (from 5°)
+  - Dual variant moving spread decreased to 7° (from 9.5°)
+  - Image x-offset increased to 75 (from 65)
+  - Casing velocity y-component set to [-6, 15] (from [2, 18])
 - [v0.19.0](https://github.com/HasangerGames/suroi/releases/tag/v0.19.0)
   - Added

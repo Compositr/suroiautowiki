@@ -21,12 +21,19 @@ The RSh-12 was created for Russian Federal Security Service for use in high-stak
 - If you encounter a player with the dual variant of the RSh-12, do not engage them unless absolutely necessary. The extreme burst damage and accuracy can kill even fully armored players in around a second.
 
 # Obtaining
-Currently, the RSh-12 can only be obtained from the [Golden AEGIS Case](/obstacles/aegis_golden_case) located in the [Headquarters](/buildings/headquarters_meta), and from [Gold Airdrops](/obstacles/airdrops).
+- Currently, the single RSh-12 can only be obtained from the [RSh-12 Case](/obstacles/rsh_case) located in the [Blue House](/buildings/headquarters_meta) basement. In Harvest Mode, it can be found as a drop from [Airdrops](/obstacles/airdrops) and a rare drop from world loot.
+
+- The dual RSh-12 can be obtained from the [Dual RSh-12 Case](/obstacles/dual_rsh_case) which occasionally replaces the normal RSh-12 Case, the [Dual RSh-12 Gun Mount](/obstacles/gun_mounts) sometimes found in the [Plumpkin Bunker](/buildings/plumpkin_bunker)'s vault, and from [Gold Airdrops](/obstacles/gold_airdrop) and the [Flint Stone](/obstacles/flint_stone).
 
 # Trivia 
 - The RSh-12 is the second revolver added to the game.
 - A variant of the RSh-12 chambered in 9x39mm also exists and is known as the RSh-9.
 
 # History
+- [v0.22.2](https://github.com/HasangerGames/suroi/releases/tag/v0.22.2)
+  - Updated world image
+  - Length increased to 5.35 (from 0.1)
+  - Dual variant standing spread decreased to 2° (from 3°)
+  - Dual variant moving spread decreased to 5° (from 6°)
 - [v0.19.0](https://github.com/HasangerGames/suroi/releases/tag/v0.19.0)
   - Added

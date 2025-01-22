@@ -36,7 +36,11 @@ The MCX Spear has a 99% chance to be found in the Office at the [Refinery](/buil
   - In addition to the standard .277 SIG FURY, it is also available with a 6.5mm Creedmoor barrel.
 
 # History
-
+- [v0.22.2](https://github.com/HasangerGames/suroi/releases/tag/v0.22.2)
+  - Updated world image
+  - Length increased to 7.9 (from 7.7)
+  - Left fist moved to (115, -6) (from (105, -6))
+  - Image moved to (87, 1.5) (from (80, 0))
 - [v0.12.1](https://github.com/HasangerGames/suroi/releases/tag/v0.12.1)
   - Firing speed penalty decreased to 25% (from 35%)
   - Recoil duration decreased to 130ms (from 240ms)

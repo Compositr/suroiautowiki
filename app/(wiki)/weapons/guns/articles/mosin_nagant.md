@@ -24,7 +24,7 @@ The Mosin-Nagant was designed in 1891 by Captain Sergei Mosin and Émile Nagant 
   - Dual [Model 37s](/weapons/guns/model_37) are among the best for this.
   - The Mosin-Nagant's long barrel can also get in the way of fights that occur in tight spaces.
 - Make sure to have high adrenaline and strafe the Mosin-Nagant user to try and get them to miss their shots.
-- If at medium or close range, high DPS weapons other than shotguns such as the [MCX Spear](/weapons/guns/mcx_spear) or even [ARX-160](/weapons/guns/arx-160) might be able to beat the Mosin-Nagant due to its low overall DPS.
+- If at medium or close range, high DPS weapons other than shotguns such as the [MCX Spear](/weapons/guns/mcx_spear) or even [ARX-160](/weapons/guns/arx160) might be able to beat the Mosin-Nagant due to its low overall DPS.
   - This works best against less-skilled players who can't aim as well.
 - The [Tango 51](/weapons/guns/tango_51) is better than the Mosin-Nagant in almost every way, so it can be used as an effective counter.
 - SMGs can also work against an opponent with a Mosin-Nagant if you surprise them in an ambush.

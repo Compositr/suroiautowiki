@@ -35,6 +35,10 @@ The most common way to find an MG5 is through a [Gold Airdrop](/obstacles/gold_a
 - The MG5 is one of two guns (the other being the [Negev](/weapons/guns/negev)) in Suroi that utilizes a belt feed system.
 
 # History
-
+- [v0.22.0](https://github.com/HasangerGames/suroi/releases/tag/v0.22.0)
+  - Updated world image
+  - Length increased to 8.6 (from 8.45)
+  - Left fist moved to (110, -3) (from (105, -3))
+  - Image moved to (90, 1) (from (90, 0))
 - [v0.17.0](https://github.com/HasangerGames/suroi/releases/tag/v0.17.0)
   - Added

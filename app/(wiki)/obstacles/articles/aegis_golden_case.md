@@ -6,18 +6,18 @@ A Golden Aegis Case can always be found in the Secret Room on the second floor o
 
 # Loot & More  
 
-The Golden Aegis Case has a 66% chance to drop the [DEagle](/weapons/guns/deagle) and a 33% chance to drop the [RSh-12](/weapons/guns/rsh12). Both pistols have a 5% chance to spawn as the dual variant instead of the single. Additionally, the Golden Aegis Case can also very rarely drop a [G19](/weapons/guns/g19).
+The Golden Aegis Case drops the [DEagle](/weapons/guns/deagle), which has a 5% chance to be the dual variant. Additionally, the Golden Aegis Case can also very rarely drop a [G19](/weapons/guns/g19).
 
 # Tips  
 
-- Since this crate (almost) always guarantees a solid weapon, you should go for this crate first if you enter the Headquarters through the fire exit that leads directly to the second floor.
-  - If it is already looted, be careful of any nearby players as both the DEagle and RSh-12 are deadly weapons that can kill you very quickly with their high DPS.
+- Since this crate drops a guranteed weapon, you should go for this crate first if you enter the Headquarters through the fire exit that leads directly to the second floor. Alternatively, you can go for the [Falchion Case](/obstacles/falchion_case) in the meeting room instead.
 
 # Trivia
 
 - It is unknown why "golden" and "aegis" are reversed in the idString of this obstacle.
 
 # History  
-
+- [v0.23.0](https://github.com/HasangerGames/suroi/releases/tag/v0.23.0)
+  - Removed the [RSh-12](/weapons/guns/rsh12) and its dual variant from the list of possible drops
 - [v0.19.0](https://github.com/HasangerGames/suroi/releases/tag/v0.19.0)  
   - Added  

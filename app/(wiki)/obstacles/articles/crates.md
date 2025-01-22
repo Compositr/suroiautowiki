@@ -12,7 +12,7 @@ The Frozen Crate is a special variant that only spawns on the Winter Map, where 
 
 # Loot & More
 
-All crates drop some sort of loot. The Regular Crate drops the [lowest quality loot](/loot#regular_crate_normal), while the [AEGIS](#aegis_crate) and [Flint](#flint_crate) crates drop better loot. [Grenade Crates](#grenade_crate) always drop 3-4 pairs of one of the two grenade types. [Melee crates](/loot#melee_crate_normal) always drop two melee weapons per crate. It can drop either the [Baseball Bat](/weapons/melee/baseball_bat) or the [K-bar](/weapons/melee/kbar). The Baseball Bat is the more common drop. 
+All crates drop some sort of loot. The Regular Crate drops the [lowest quality loot](/loot#regular_crate_normal), while the [AEGIS](#aegis_crate) and [Flint](#flint_crate) crates drop better loot. [Grenade Crates](#grenade_crate) always drop 3-4 pairs of one of the two grenade types. [Melee crates](/loot#melee_crate_normal) always drop two melee weapons per crate. It [can drop](/loot#melee_crate_normal) the [Baseball Bat](/weapons/melee/baseball_bat), [K-bar](/weapons/melee/kbar) or rarely the [Sickle](/weapons/melee/sickle). The Baseball Bat is the most common drop. 
 
 The [Frozen Crate](#frozen_crate) has a high chance to drop an airdrop tier gun as well as a variety of other useful items. See the [loot table](/loot#frozen_crate_normal) for more information. Additionally, the Frozen crate is a frozen obstacle and has very high health, which means that most melee weapons deal x0.01 damage to it with a few exceptions.
 

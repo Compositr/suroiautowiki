@@ -36,9 +36,7 @@ export default function Kitchen() {
           ["bleh", ":3", "silly"]
         ]}
       />
-      <p>
 
-      </p>
       <MatrixTable
         title="1092384 sucks at css"
         tHeader={["1", "2", "3"]}
@@ -63,6 +61,44 @@ export default function Kitchen() {
         }}
       />
       <WeaponComparer />
+      <Collapsible
+        label={(
+          <div className="prose prose-invert">
+            <h2 id="damage_table">Gun Bullet Damage Table</h2>
+          </div>
+        )}
+        className="my-4"
+      >
+        <div className="mt-4">
+          <TableWithHeader
+            header={["Gun", "Damage"]}
+            content={[
+              ...Guns.definitions.map(gun =>
+                [gun.name, gun.ballistics.damage]
+              ).sort((a, b) => (Number(b[1]) - Number(a[1])))
+            ]}
+          />
+        </div>
+      </Collapsible>
+      <Collapsible
+        label={(
+          <div className="prose prose-invert">
+            <h2 id="capacity_table">Gun Capacity Table</h2>
+          </div>
+        )}
+        className="my-4"
+      >
+        <div className="mt-4">
+          <TableWithHeader
+            header={["Gun", "Capacity", "Capacity with Extended Magazines Perk"]}
+            content={[
+              ...Guns.definitions.map(gun =>
+                [gun.name, gun.capacity, gun.extendedCapacity ?? gun.capacity]
+              ).sort((a, b) => (Number(b[1]) - Number(a[1])))
+            ]}
+          />
+        </div>
+      </Collapsible>
       <PlayerWearingEquipment />
       <DevWeapon />
       <Empty />

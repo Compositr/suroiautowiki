@@ -27,8 +27,11 @@ The BLR Lightweight '81 is a lever action rifle and is a variant of the original
 The BLR 556 can only be found on the Harvest Map, where it is a fairly common weapon and is around the same rarity as of the [M3K](/weapons/guns/m3k) and CZ-600.
 
 # Trivia
-- Similar to the [RGS](/weapons/guns/rgs) and [M1 Garand](/weapons/guns/m1_garand), the BLR 556 has a special firing sound that plays when the last round in the magazine is fired.
+- Similar to the [RG Scout](/weapons/guns/rgs) and [M1 Garand](/weapons/guns/m1_garand), the BLR 556 has a special firing sound that plays when the last round in the magazine is fired.
 
 ## History
+- [v0.22.2](https://github.com/HasangerGames/suroi/releases/tag/v0.22.2)
+  - Updated world image
+  - Renamed to BLR 556 (from BLR)
 - [v0.22.0](https://github.com/HasangerGames/suroi/releases/tag/v0.22.0)
   - Added

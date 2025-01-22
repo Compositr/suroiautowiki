@@ -37,6 +37,12 @@ Finding a Negev is no easy task. The most common way to find a Negev is through 
   - This variant has been produced since 2012 and features many improvements such as a Picatinny rail.
 
 # History
-
+- [v0.22.0](https://github.com/HasangerGames/suroi/releases/tag/v0.22.0)
+  - Updated world image
+  - Length increased to 7.15 (from 8.1)
+  - Left fist moved to (109, -18) (from (121, -18))
+  - Image moved to (80, -3.6) (from (90, 2))
+  - Casing particle spawn moved to (4, 0.6) (from (4.2, 0.6))
+  - M13 Link particle spawn moved to (4.2, 0.6) (from (4.4, 0.6))
 - [v0.17.0](https://github.com/HasangerGames/suroi/releases/tag/v0.17.0)
   - Added

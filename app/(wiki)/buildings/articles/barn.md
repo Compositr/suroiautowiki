@@ -34,6 +34,8 @@ Break the Gun Case or the Gun Locker first, but you need a piercing weapon (e.g.
 
 # History
 
+- [v0.23.0](https://github.com/HasangerGames/suroi/releases/tag/v0.23.0)
+    - Improved layout
 - [v0.20.0](https://github.com/HasangerGames/suroi/releases/tag/v0.20.0)
     - Added
 

@@ -14,7 +14,7 @@ All tugboats contain one [Grenade Crate](/obstacles/grenade_crate), one [Barrel]
 
 The Cabin can be accessed through a [Door](/obstacles/doors) in the center of the boat.
 
-All tugboat cabins contain one [Tugboat Control Panel](/obstacles/tugboat_control_panel), one [Office Chair](/obstacles/office_chair), one [Large Drawer](/obstacles/drawers) and one [Life Preserver](/obstacles/life_preserver). Additionally, White Tugboats contain a [Gun Case](/obstacles/gun_case) and Red Tugboats contain a [Lux Crate](/obstacles/lux_crate) inside the cabin. The Lux Crate drops a guaranteed [RGS](/weapons/guns/rgs) and a scope.
+All tugboat cabins contain one [Tugboat Control Panel](/obstacles/tugboat_control_panel), one [Office Chair](/obstacles/office_chair), one [Large Drawer](/obstacles/drawers) and one [Life Preserver](/obstacles/life_preserver). Additionally, White Tugboats contain a [Gun Case](/obstacles/gun_case) and Red Tugboats contain a [Lux Crate](/obstacles/lux_crate) inside the cabin. The Lux Crate drops a guaranteed [RG Scout](/weapons/guns/rgs) and a scope.
 
 # Tips
 

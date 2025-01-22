@@ -29,7 +29,8 @@ As a dev-only weapon, the Death Ray can only be obtained by developers, or on th
 - Like other developer weapons, its kill icon contains colors and gradients.
 
 # History
-
+- [v0.22.2](https://github.com/HasangerGames/suroi/releases/tag/v0.22.2)
+  - Updated world image
 - [v0.12.3](https://github.com/HasangerGames/suroi/releases/tag/v0.12.3)
   - Moving spread decreased to 0.1° (from 0.25°)
 - [v0.12.1](https://github.com/HasangerGames/suroi/releases/tag/v0.12.1)
